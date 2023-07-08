@@ -4,3 +4,5 @@
 ## Задание 2
 ![screenshot](https://github.com/OhotinDY/hw-04/blob/main/2.png)
 ## Задание 3
+![screenshot](https://github.com/OhotinDY/hw-04/blob/main/3.png)
+![screenshot](https://github.com/OhotinDY/hw-04/blob/main/4.png)
